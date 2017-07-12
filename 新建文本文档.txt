@@ -1,0 +1,2 @@
+linux学习资源：http://billie66.github.io/TLCL/book/index.html
+浙江大学操作系统公开课：http://www.icourses.cn/coursestatic/course_6801.html
